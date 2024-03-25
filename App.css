@@ -1,0 +1,14 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{ 
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    margin: 5px;
+}
+.Navbar{ 
+   background-color: aqua;
+}
